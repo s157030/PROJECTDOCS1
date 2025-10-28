@@ -10,7 +10,7 @@ AP Hogeschool Antwerpen
 ---
 
 ## Projectbeschrijving
-Dit project maakt deel uit van het opleidingsonderdeel **PPT1** binnen de opleiding *Grafische en Digitale Media*.  
+Dit project maakt deel uit van het opleidingsonderdeel **PRTT** binnen de opleiding *Grafische en Digitale Media*.  
 Het doel van het project is het ontwerpen en ontwikkelen van een website met meerdere pagina’s die de voortgang van elke lesweek weergeeft.
 
 De website bestaat uit een hoofdpagina met een korte projectannotatie,

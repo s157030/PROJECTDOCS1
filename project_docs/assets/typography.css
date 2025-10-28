@@ -1,0 +1,43 @@
+/* === TYPOGRAPHY.CSS === */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body, button, a, p, h1, h2 {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+}
+
+page h1 {
+  font-size: 80px;
+  font-weight: 700;
+  color: var(--purple-dark);
+  margin-bottom: 10px;
+}
+
+page p {
+  font-size: 30px;
+  font-weight: 500;
+  color: var(--text-dark);
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 16px;
+  color: var(--text-dark);
+  max-width: 600px;
+  margin: 0 auto 20px;
+}
+
+.week-page page h1 {
+  font-size: 40px;      
+  font-weight: 700;
+  color: var(--purple-dark);
+  margin-bottom: 14px;
+}
+
+.week-page page p {
+  font-size: 15px;      
+  line-height: 1.7;     
+  color: var(--text-dark);
+  max-width: 700px;     
+  margin-bottom: 28px;
+}

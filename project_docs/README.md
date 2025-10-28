@@ -13,13 +13,19 @@ AP Hogeschool Antwerpen
 Dit project maakt deel uit van het opleidingsonderdeel **PPT1** binnen de opleiding *Grafische en Digitale Media*.  
 Het doel van het project is het ontwerpen en ontwikkelen van een website met meerdere pagina’s die de voortgang van elke lesweek weergeeft.
 
-De website bestaat uit een hoofdpagina met een korte annotatie van het project en zeven afzonderlijke weekpagina’s die het leerproces en de voortgang documenteren.
+De website bestaat uit een hoofdpagina met een korte projectannotatie,
+zeven afzonderlijke weekpagina’s die het leerproces en de voortgang documenteren,
+en drie extra informatieschermen – Overzichtscherm, Perronscherm en Wagonindelingsscherm –
+die deel uitmaken van het ontwerpproces binnen het vak PPT1.
 
 ---
 ## Gebruik
 1. Open het bestand **index.html** in een webbrowser.  
-2. Gebruik de knoppen om te navigeren tussen de weken.  
-3. Elke pagina bevat een consistente vormgeving, kleurpalet en typografie.
+2. Gebruik de knoppen in het midden van de pagina om te navigeren tussen de weken (**Week 1–7**).  
+3. Via de verticale navigatiebalk aan de linkerkant kun je schakelen tussen de drie schermen:  
+   **Overzichtscherm**, **Perronscherm** en **Wagonindelingsscherm**.  
+4. Elke pagina behoudt een consistente visuele stijl, kleurpalet (donker- en lichtpaars) en typografie (**Inter**).  
+5. De vaste footer onderaan de pagina vermeldt de auteur en opleidingsinformatie.
 
 ---
 
@@ -28,7 +34,10 @@ De website bestaat uit een hoofdpagina met een korte annotatie van het project e
 - **Hoofdkleuren:**  
   - Donkerpaars `#4B2EFF`  
   - Lichtpaars `#B8A6FF`  
-- **Lay-out:** gecentreerd, responsief, met een raster van knoppen (Home + Week 1–7)  
+- **Lay-out:** gecentreerd en responsief ontwerp met een duidelijke visuele hiërarchie.
+De pagina bevat een verticale navigatiebalk aan de linkerkant (met knoppen voor Overzichtscherm, Perronscherm en Wagonindelingsscherm),
+een centraal gedeelte met de hoofdtitel en knoppen (Home + Week 1–7),
+en een vaste footer onderaan de pagina met auteursinformatie.
 
 ---
 

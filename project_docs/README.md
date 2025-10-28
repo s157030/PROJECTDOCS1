@@ -16,7 +16,7 @@ Het doel van het project is het ontwerpen en ontwikkelen van een website met mee
 De website bestaat uit een hoofdpagina met een korte projectannotatie,
 zeven afzonderlijke weekpagina’s die het leerproces en de voortgang documenteren,
 en drie extra informatieschermen – Overzichtscherm, Perronscherm en Wagonindelingsscherm –
-die deel uitmaken van het ontwerpproces binnen het vak PPT1.
+die deel uitmaken van het ontwerpproces binnen het vak PRTT.
 
 ---
 ## Gebruik
